@@ -1,0 +1,325 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 300}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* HideSysFilesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 486}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 332}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* HideSysFilesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 312}}";
+			sepNavSelRange = "{392, 0}";
+			sepNavVisRange = "{0, 488}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* HideSysFiles_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 486}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 36C68176111D7FC9006C91D4 /* HideSysFiles */;
+		activeTarget = 8D1107260486CEB800E47090 /* HideSysFiles */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* HideSysFiles */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 36C68189111D7FD6006C91D4 /* Code sense */;
+		executables = (
+			36C68176111D7FC9006C91D4 /* HideSysFiles */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					555,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					667,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					607,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					627,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 287145929;
+			PBXWorkspaceStateSaveDate = 287145929;
+		};
+		perUserProjectItems = {
+			36C681F4111D8EA7006C91D4 /* PBXTextBookmark */ = 36C681F4111D8EA7006C91D4 /* PBXTextBookmark */;
+			36C681F5111D8EA7006C91D4 /* PBXTextBookmark */ = 36C681F5111D8EA7006C91D4 /* PBXTextBookmark */;
+			36C681F6111D8EA7006C91D4 /* PBXTextBookmark */ = 36C681F6111D8EA7006C91D4 /* PBXTextBookmark */;
+			36C681F7111D8EA7006C91D4 /* PlistBookmark */ = 36C681F7111D8EA7006C91D4 /* PlistBookmark */;
+			36C681F8111D8EA7006C91D4 /* PBXTextBookmark */ = 36C681F8111D8EA7006C91D4 /* PBXTextBookmark */;
+			36C68201111D8F20006C91D4 /* PBXTextBookmark */ = 36C68201111D8F20006C91D4 /* PBXTextBookmark */;
+			36C68202111D8F20006C91D4 /* PBXTextBookmark */ = 36C68202111D8F20006C91D4 /* PBXTextBookmark */;
+			36C6820D111D90B5006C91D4 /* PBXBookmark */ = 36C6820D111D90B5006C91D4 /* PBXBookmark */;
+			36C6821A111D937E006C91D4 /* PBXTextBookmark */ = 36C6821A111D937E006C91D4 /* PBXTextBookmark */;
+			36C6821B111D937E006C91D4 /* PBXTextBookmark */ = 36C6821B111D937E006C91D4 /* PBXTextBookmark */;
+			36C6821E111D937E006C91D4 /* PlistBookmark */ = 36C6821E111D937E006C91D4 /* PlistBookmark */;
+		};
+		sourceControlManager = 36C68188111D7FD6006C91D4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 486}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	36C68176111D7FC9006C91D4 /* HideSysFiles */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HideSysFiles;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	36C68188111D7FD6006C91D4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36C68189111D7FD6006C91D4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36C6818D111D826E006C91D4 /* HideSysFilesController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 486}}";
+			sepNavSelRange = "{126, 0}";
+			sepNavVisRange = "{0, 364}";
+		};
+	};
+	36C6818E111D826E006C91D4 /* HideSysFilesController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 624}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 270}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	36C681F4111D8EA7006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C6818E111D826E006C91D4 /* HideSysFilesController.m */;
+		name = "HideSysFilesController.m: 6";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	36C681F5111D8EA7006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* HideSysFiles_Prefix.pch */;
+		name = "HideSysFiles_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	36C681F6111D8EA7006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	36C681F7111D8EA7006C91D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HideSysFiles-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	36C681F8111D8EA7006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	36C68201111D8F20006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C6818D111D826E006C91D4 /* HideSysFilesController.h */;
+		name = "HideSysFilesController.h: 6";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	36C68202111D8F20006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* HideSysFilesAppDelegate.h */;
+		name = "HideSysFilesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	36C6820D111D90B5006C91D4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HideSysFiles-Info.plist */;
+	};
+	36C6821A111D937E006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* HideSysFilesAppDelegate.m */;
+		name = "HideSysFilesAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	36C6821B111D937E006C91D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	36C6821E111D937E006C91D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HideSysFiles-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8D1107260486CEB800E47090 /* HideSysFiles */ = {
+		activeExec = 0;
+		executables = (
+			36C68176111D7FC9006C91D4 /* HideSysFiles */,
+		);
+	};
+	8D1107310486CEB800E47090 /* HideSysFiles-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+}

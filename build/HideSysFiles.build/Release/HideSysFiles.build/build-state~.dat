@@ -1,0 +1,439 @@
+THideSysFiles
+v7
+r0
+t287150909.964298
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Info.plist" HideSysFiles-Info.plist
+cCopyStringsFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles" normal x86_64
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles" normal i386
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles" normal ppc
+cCreateUniversalBinary "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app.dSYM" "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles"
+cTouch "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/InfoPlist.strings
+c000000004B6D4848000000000000002D
+t1265453128
+s45
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib
+c000000004B6D571A000000000000EAA4
+t1265456922
+s60068
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.h
+c000000004B6D4848000000000000014C
+t1265453128
+s332
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m
+c000000004B6D579300000000000001E8
+t1265457043
+s488
+i"HideSysFilesAppDelegate.h"
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.h
+c000000004B6D5724000000000000016C
+t1265456932
+s364
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m
+c000000004B6D565A0000000000000342
+t1265456730
+s834
+i"HideSysFilesController.h"
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch
+c000000004B6D4848000000000000009B
+t1265453128
+s155
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles
+t1265458109
+s19100
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles.LinkFileList
+c000000004B6D5B8E000000000000018A
+t1265458062
+s394
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesAppDelegate.o
+t1265458108
+s18320
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesController.o
+t1265458108
+s14392
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/main.o
+t1265458108
+s4852
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles
+t1265458109
+s18828
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles.LinkFileList
+c000000004B6D5B8E0000000000000187
+t1265458062
+s391
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesAppDelegate.o
+t1265458109
+s18164
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesController.o
+t1265458109
+s14832
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/main.o
+t1265458108
+s4884
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles
+t1265458108
+s16008
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles.LinkFileList
+c000000004B6D5B8E0000000000000190
+t1265458062
+s400
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesAppDelegate.o
+t1265458106
+s24828
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesController.o
+t1265458106
+s17676
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/main.o
+t1265458106
+s5056
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app
+t1265458109
+s102
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app.dSYM
+t1265458109
+s102
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Info.plist
+t1265458062
+s901
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles
+t1265458109
+s59788
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/PkgInfo
+t1265458062
+s8
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1265458063
+s92
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/MainMenu.nib
+t1265458064
+s9910
+
+N/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m
+c000000004B6D48480000000000000104
+t1265453128
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch.gch
+t1265458100
+s55502640
+
+N/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch.gch
+t1265458101
+s52868880
+
+N/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch.gch
+t1265458105
+s52737616
+
+NHideSysFiles-Info.plist
+c000000004B6D484800000000000003EA
+t1265453128
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287150862#287150862#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287150908.356026
+e287150908.542501
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesAppDelegate.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m287150908#287150908#0(0"0(0#0#65"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m4300885448#1651"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/i386" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesAppDelegate.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287150908.542729
+e287150908.720421
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesController.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m287150908#287150908#0(0"0(0#0#64"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m4300885448#1649"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/i386" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFilesController.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287150906.600104
+e287150908.355906
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/main.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/main.m287150906#287150908#0(0"0(0#0#46"/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m4300885448#1613"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/i386" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s287150908.967838
+e287150909.135964
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesAppDelegate.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m287150908#287150909#0(0"0(0#0#65"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m4300885448#1645"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/ppc" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesAppDelegate.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s287150909.136092
+e287150909.313138
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesController.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m287150909#287150909#0(0"0(0#0#64"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m4300885448#1643"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/ppc" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFilesController.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s287150908.700891
+e287150908.967722
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/main.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/main.m287150908#287150908#0(0"0(0#0#46"/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m4300885448#1607"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/ppc" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/main.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesAppDelegate.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287150905.350391
+e287150906.599975
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesAppDelegate.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m287150905#287150906#0(0"0(0#0#65"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m4300885448#1657"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/x86_64" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesAppDelegate.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesAppDelegate.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesController.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287150906.589155
+e287150906.866331
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesController.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m287150906#287150906#0(0"0(0#0#64"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m4300885448#1655"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/x86_64" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFilesController.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFilesController.o"0#
+
+CCompileC build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/main.o "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287150905.278426
+e287150906.589018
+r1
+xCompileC
+xbuild/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/main.o
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Volumes/Meine Daten/Cocoa/HideSysFiles/main.m287150905#287150906#0(0"0(0#0#46"/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m4300885448#1619"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/x86_64" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -include /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/main.m" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib"
+s287150862.660360
+e287150864.598740
+r1
+xCompileXIB
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib287150862#287150864#0(0"0(0#0#66"/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib4300885448#343"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/MainMenu.nib" "/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s287150862.620044
+e287150863.772046
+r1
+xCopyStringsFile
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings287150862#287150863#0(0"0(0#0#71"/Volumes/Meine Daten/Cocoa/HideSysFiles/English.lproj/InfoPlist.strings4300885448#378"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles" normal "x86_64 i386 ppc"
+s287150909.701742
+e287150909.770616
+r1
+xCreateUniversalBinary
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@105"CreateUniversalBinary build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles normal "x86_64 i386 ppc"287150909#287150909#0(0"0(0#0#55"/Volumes/Meine Daten/Cocoa/HideSysFiles/x86_64 i386 ppc4300885448#566"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    /usr/bin/lipo -create "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles" "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles" "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles" -output "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles"0#
+
+CGenerateDSYMFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app.dSYM" "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles"
+s287150909.770734
+e287150909.888684
+r1
+xGenerateDSYMFile
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app.dSYM
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles
+lSLF07#2@111"GenerateDSYMFile build/Release/HideSysFiles.app.dSYM build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles287150909#287150909#0(0"0(0#0#98"/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles4300885448#263"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    /Developer/usr/bin/dsymutil "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/MacOS/HideSysFiles" -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app.dSYM"0#
+
+CLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles" normal i386
+s287150908.720544
+e287150909.140860
+r1
+xLd
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles
+xnormal
+xi386
+lSLF07#2@129"Link /Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles287150908#287150909#0(0"0(0#0#0"4300885448#612"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" -filelist "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/i386/HideSysFiles"0#
+
+CLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles" normal ppc
+s287150909.313248
+e287150909.701628
+r1
+xLd
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles
+xnormal
+xppc
+lSLF07#2@128"Link /Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles287150909#287150909#0(0"0(0#0#0"4300885448#609"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" -filelist "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/ppc/HideSysFiles"0#
+
+CLd "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles" normal x86_64
+s287150906.866670
+e287150908.700757
+r1
+xLd
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles
+xnormal
+xx86_64
+lSLF07#2@131"Link /Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles287150906#287150908#0(0"0(0#0#0"4300885448#618"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" -filelist "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/Objects-normal/x86_64/HideSysFiles"0#
+
+CProcessInfoPlistFile "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Info.plist" HideSysFiles-Info.plist
+s287150862.616517
+e287150862.619941
+r1
+xProcessInfoPlistFile
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Info.plist
+xHideSysFiles-Info.plist
+lSLF07#2@31"Process HideSysFiles-Info.plist287150862#287150862#0(0"0(0#0#63"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles-Info.plist4300885448#338"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    builtin-infoPlistUtility HideSysFiles-Info.plist -genpkginfo "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287150864.600042
+e287150901.485324
+r1
+xProcessPCH
+x/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch.gch
+xHideSysFiles_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile HideSysFiles_Prefix.pch287150864#287150901#0(0"0(0#0#63"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch4300885448#1511"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/i386" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch" -o /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-cfvoucdbjpitddchinfnbuezbnir/HideSysFiles_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s287150864.598925
+e287150901.147811
+r1
+xProcessPCH
+x/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch.gch
+xHideSysFiles_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile HideSysFiles_Prefix.pch287150864#287150901#0(0"0(0#0#63"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch4300885448#1515"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/x86_64" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch" -o /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-dyazzcifulvrpmbqvcilrpgallmz/HideSysFiles_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch.gch HideSysFiles_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s287150901.148110
+e287150905.278232
+r1
+xProcessPCH
+x/var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch.gch
+xHideSysFiles_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile HideSysFiles_Prefix.pch287150901#287150905#0(0"0(0#0#63"/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch4300885448#1506"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-generated-files.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-own-target-headers.hmap" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-all-target-headers.hmap" -iquote "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/HideSysFiles-project-headers.hmap" "-F/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/include" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources/ppc" "-I/Volumes/Meine Daten/Cocoa/HideSysFiles/build/HideSysFiles.build/Release/HideSysFiles.build/DerivedSources" -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/HideSysFiles_Prefix.pch" -o /var/folders/Rf/Rf3WSMX2GOeX3rzQWMwvKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideSysFiles_Prefix-fqaylvhxhdpvjohinvjigneagegr/HideSysFiles_Prefix.pch.gch0#
+
+CTouch "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app"
+s287150909.889530
+e287150909.964244
+r1
+xTouch
+x/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app
+lSLF07#2@76"Touch /Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app287150909#287150909#0(0"0(0#0#0"4300885448#144"    cd "/Volumes/Meine Daten/Cocoa/HideSysFiles"    /usr/bin/touch -c "/Volumes/Meine Daten/Cocoa/HideSysFiles/build/Release/HideSysFiles.app"0#
+
